@@ -47,8 +47,9 @@ The project operates through a menu system, allowing the user to perform the fol
 - `umAlanlariParagraf.txt`: Detailed descriptions of the regions.
 
 ## 👥 Contributors
-- Emir Kahraman
+
 - Bülent Yıldırım
+- Emir Kahraman
 
 📜 **License**: Licensed under the MIT License.
 
